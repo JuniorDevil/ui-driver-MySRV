@@ -1,5 +1,5 @@
 {
-  "name": "ui-driver-MySRV",
+  "name": "ui-driver-Proxmox",
   "version": "0.0.1",
   "description": "Rancher UI driver for Proxmox",
   "repository": {
